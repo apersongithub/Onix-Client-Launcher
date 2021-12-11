@@ -1,4 +1,4 @@
 Mini Update
 
--Various bug fixes for Keystrokes
+-Various bug fixes for Keystrokes and item physics
 -Added support for 1.18.2
