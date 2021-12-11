@@ -1,6 +1,6 @@
 Big Update 12/10/21
 
--🌟Version Switcher Soon🌟
+-Version Switcher Soon
 -Various bug fixes for item physics
 -Various bug fixes for Keystrokes
 -Added support for 1.18, 1.18.1, 1.18.2
