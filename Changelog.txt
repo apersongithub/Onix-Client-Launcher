@@ -1,8 +1,8 @@
-Big Update 12/10/21
+Big Update 2/18/22
 
--Version Switcher Soon
--Various bug fixes for item physics
--Various bug fixes for Keystrokes
--Added support for 1.18, 1.18.1, 1.18.2
+-Fixed Modules
+-Fixed Crashes
+-Renamed and clarified all module descriptions
+-Added support for 1.18.10, 1.18.12
 
 dm "a person#2664" if bug
